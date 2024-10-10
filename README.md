@@ -1,2 +1,2 @@
-# prog1-2023-shell
-This repo branch contains the shell for program 1 from cg class 2023 at nc state (ray tracing ellipsoids).
+# prog1-raycasting-triangles
+This repo branch contains the code for program 1 from cg class 2024 at nc state (ray tracing triangles).
