@@ -1,2 +1,2 @@
-# prog1-raycasting-triangles
-This repo branch contains the code for program 1 from cg class 2024 at nc state (ray tracing triangles).
+# raycasting-pacman
+This repo branch contains the code for raycasting triangles and spheres with shadows. (ray tracing triangles).
